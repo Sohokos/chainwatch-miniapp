@@ -1,0 +1,35 @@
+{
+  "name": "chainwatch-miniapp",
+  "version": "1.0.0",
+  "description": "ChainWatch Mini-App for Base",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "base",
+    "miniapp",
+    "wallet-tracker"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@coinbase/onchainkit": "^1.1.2",
+    "@tanstack/react-query": "^5.90.11",
+    "autoprefixer": "^10.4.17",
+    "next": "^16.0.7",
+    "postcss": "^8.4.35",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "tailwindcss": "^3.4.1",
+    "viem": "^2.41.2",
+    "wagmi": "^2.19.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.7",
+    "typescript": "^5.8.3"
+  }
+}

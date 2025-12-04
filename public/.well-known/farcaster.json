@@ -1,0 +1,26 @@
+{
+  "accountAssociation": {
+    "header": "REPLACE_WITH_YOUR_HEADER",
+    "payload": "REPLACE_WITH_YOUR_PAYLOAD",
+    "signature": "REPLACE_WITH_YOUR_SIGNATURE"
+  },
+  "frame": {
+    "version": "1",
+    "name": "ChainWatch",
+    "subtitle": "Real-time Wallet Tracker",
+    "description": "Track Base and Ethereum wallets in real-time. Get instant alerts for buys, sells, and token swaps. Clean interface, no spam.",
+    "iconUrl": "https://YOUR_DOMAIN/icon.png",
+    "homeUrl": "https://YOUR_DOMAIN",
+    "splashImageUrl": "https://YOUR_DOMAIN/splash.png",
+    "splashBackgroundColor": "#0052FF",
+    "heroImageUrl": "https://YOUR_DOMAIN/hero.png",
+    "tagline": "Track wallets, catch opportunities",
+    "screenshotUrls": [
+      "https://YOUR_DOMAIN/screenshot1.png",
+      "https://YOUR_DOMAIN/screenshot2.png"
+    ],
+    "primaryCategory": "finance",
+    "tags": ["defi", "trading", "analytics", "wallet", "base"],
+    "webhookUrl": "https://YOUR_DOMAIN/api/webhook"
+  }
+}
